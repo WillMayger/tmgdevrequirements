@@ -2,7 +2,7 @@
 
 ##### Your test is to consume the public [Flickr API](https://api.flickr.com/services/feeds/photos_public.gne?format=json) and display the results according to this basic wireframe:
 
-> ![mockup](https://raw.githubusercontent.com/WillMayger/tmgdevrequirements/master/flickr-wireframe.jpg)
+> ![mockup](https://raw.githubusercontent.com/WillMayger/frontend-dev-task/master/flickr-wireframe.jpg)
 
 Please find our requirements listed below:
 
