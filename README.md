@@ -4,7 +4,7 @@
 
 > ![mockup](https://raw.githubusercontent.com/WillMayger/tmgdevrequirements/master/flickr-wireframe.jpg)
 
-We would expect the main part of this task to take up to a day to complete. Please find our requirements listed below:
+Please find our requirements listed below:
 
 * The website you create should function as a [single page application](http://en.wikipedia.org/wiki/Single-page_application).
 * You should use either vanilla.js, react.js or vue.js.
